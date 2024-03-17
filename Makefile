@@ -7,3 +7,7 @@ factory-method:
 
 builder:
 	node 1-creation-patterns/4-builder/builder.js
+
+# Structureal patterns
+decorator:
+	node 2-structural-patterns/4-decorator/decorator.js
