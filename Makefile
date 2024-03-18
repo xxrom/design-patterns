@@ -14,3 +14,7 @@ decorator:
 
 facade:
 	node 2-structural-patterns/5-facade/facade.js
+
+# Behavioral patterns
+command:
+	node 3-behavioral-patterns/2-command/command.js

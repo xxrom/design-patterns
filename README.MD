@@ -7,5 +7,8 @@
 ## 2 Structural patterns
 
 - 2.4 Decorator
+- 2.5 Facade
 
 ## 3 Behavioral patterns
+
+-
