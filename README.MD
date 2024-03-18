@@ -11,4 +11,4 @@
 
 ## 3 Behavioral patterns
 
--
+- 3.2 Command
