@@ -11,3 +11,6 @@ builder:
 # Structureal patterns
 decorator:
 	node 2-structural-patterns/4-decorator/decorator.js
+
+facade:
+	node 2-structural-patterns/5-facade/facade.js
