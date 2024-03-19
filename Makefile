@@ -21,3 +21,6 @@ command:
 
 iterator:
 	node 3-behavioral-patterns/4-iterator/iterator.js
+
+observer:
+	node 3-behavioral-patterns/7-observer/observer.js
