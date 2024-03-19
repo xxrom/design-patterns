@@ -24,3 +24,6 @@ iterator:
 
 observer:
 	node 3-behavioral-patterns/7-observer/observer.js
+
+strategy:
+	node 3-behavioral-patterns/9-strategy/strategy.js
