@@ -18,3 +18,6 @@ facade:
 # Behavioral patterns
 command:
 	node 3-behavioral-patterns/2-command/command.js
+
+iterator:
+	node 3-behavioral-patterns/4-iterator/iterator.js
