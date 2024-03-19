@@ -34,3 +34,9 @@ encapsulation:
 
 abstraction:
 	node 4-object-oriented-programming/abstraction.js
+
+inheritance:
+	node 4-object-oriented-programming/inheritance.js
+
+polymorphism:
+	node 4-object-oriented-programming/polymorphism.js
