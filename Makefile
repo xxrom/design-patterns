@@ -27,3 +27,10 @@ observer:
 
 strategy:
 	node 3-behavioral-patterns/9-strategy/strategy.js
+
+# OOP
+encapsulation:
+	node 4-object-oriented-programming/encapsulation.js
+
+abstraction:
+	node 4-object-oriented-programming/abstraction.js
