@@ -12,3 +12,4 @@
 ## 3 Behavioral patterns
 
 - 3.2 Command
+- 3.4 Iterator
